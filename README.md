@@ -26,6 +26,8 @@ Visualization of relationships between key variables and the target (house price
 Comparison of model performance and discussion of trade-offs (e.g., complexity vs interpretability).
 
 Deployment readiness: how the model can be used to make new predictions.
+<img width="801" height="563" alt="image" src="https://github.com/user-attachments/assets/c4af1527-d6d4-4834-944b-1a5cfe244bd3" />
+
 
 # 🛠 Tools & Technologies Used
 
